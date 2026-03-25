@@ -6,7 +6,7 @@ A simple TCP socket system where a client sends random temperature readings to a
 
 ## How to run
 
-### Localhost test (one computer, two terminals)
+### Local test
 
 **Terminal 1 — start the server:**
 ```
@@ -70,10 +70,6 @@ Received: Temperature: 19.8 C
 - Client running on a second device on the same network
 - Messages received successfully every 5 seconds
 
-*(Add your screenshot here — e.g. `![screenshot](screenshot.png)`)*
+<img width="1875" height="991" alt="Screenshot 2026-03-25 153552" src="https://github.com/user-attachments/assets/d7864163-b191-4e07-9407-55b01d402fa6" />
 
 ---
-
-## Requirements
-
-- Python 3.x (no external libraries needed — uses only the standard library)
